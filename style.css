@@ -54,7 +54,8 @@ table {
 
 header{
     width: 100%;
-    height: 520px;
+    height: 200px;
+    width: 100px;
     background-image: url('sviesa.png');
     background-position:center; 
     background-repeat: no-repeat;
@@ -111,4 +112,3 @@ footer{
     height: 100px;
     background-color:#99999999;
 }
-
